@@ -53,9 +53,9 @@ Working on projects:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.90%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -78,7 +78,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 18:13:57 UTC
+ Last Updated on 05/01/2026 18:15:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
